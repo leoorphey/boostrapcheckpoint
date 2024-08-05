@@ -8,7 +8,8 @@
     color: white;
     text-align: center;
 }
-.menu-item .card img {
+
+.menu-item .card .img-fluid {
     width: 100%;
-    height: 50vh;
+    height: 200px;
 }
